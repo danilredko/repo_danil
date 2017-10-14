@@ -1,0 +1,66 @@
+# Fill in, commit and push each day.
+
+Oct 6, 2016
+	Yesterday : 
+		I completed the initial JugPuzzle Model classes
+	
+	Today     : Add Scrum framework documents to project. Proofread 
+		        and post the assignment. Send message to all students
+		        about the availability of the assignment.
+	
+	Obstacles : 
+
+Oct 7, 2016
+	Yesterday : I've read the assignment info
+	Today     : I want to go over the classes and understand how they work
+	Obstacles : Had troubles with committing and pushing using git
+	
+Oct 8, 2016
+	Yesterday : I went over the classes, and now have an understanding how they work
+	Today     : I want to start thinking about the UI
+	Obstacles : Had troubles with some lines, took some time to understand 
+	
+Oct 9, 2016
+	Yesterday : I started to think about the UI design, and thinking about the ways to implement them
+	Today     : I want to start working on JugPuzzleGUIController class
+	Obstacles : Needed to go over Lecture examples to remind myself how Observer works
+	
+Oct 10, 2016
+	Yesterday : Went over lecture slides 
+	Today     : I want to start implementing the UI
+	Obstacles : Cannot figure out how to implement START OVER button
+	
+Oct 11, 2016
+	Yesterday : I have a game working, START OVER button is not implemented
+	Today     : I want to work on the design to make the game look nice
+	Obstacles : Having problems with layout of buttons and labels
+	
+Oct 12, 2016
+	Yesterday :I've tried implemented a new UI design with labels changing their size depending on Jug's amount
+	Today     :I want to make UI look better
+	Obstacles :I cannot figure out how GroupLayout works
+	
+Oct 13, 2016
+	Yesterday :I've tried to fix my layout problem, but I found out that my move function does not work properly 
+	Today     :I want to implement the labels that change size depending on Jug's amount
+	Obstacles :
+	
+Oct 14, 2016
+	Yesterday :I've implemented the labels that change their sizes depend on the Jug's amount
+	Today     :I want to implement START OVER BUTTON
+	Obstacles :
+	
+Oct 15, 2016
+	Yesterday :
+	Today     : Commit and push by tonight at midnight for ontime submission.
+	Obstacles :
+
+Oct 16, 2016
+	Yesterday :
+	Today     : 
+	Obstacles :
+	
+Oct 17, 2016
+	Yesterday :
+	Today     : Commit and push by tonight at midnight for late submission.
+	Obstacles :
